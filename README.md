@@ -46,3 +46,6 @@ University of Engineering and Technology, Lahore
 
 - Email: eshnaeman19@gmail.com
 - GitHub: [My GitHub](https://github.com/EshnaEman)
+## Learning Journey
+
+Currently learning Git, GitHub, and software development practices.
